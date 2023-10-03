@@ -147,9 +147,9 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "WAYFINDERS",
-        "headerSubtitle": "ADVENTURE COMPANY",
-        "subheaderTitle": "VENTURE PARTY",
+        "headerTitle": "STARFINDER SOCIETY",
+        "headerSubtitle": "WAYFINDERS",
+        "subheaderTitle": "VENTURE SQUAD",
         "subheaderSubtitle": "Alpha-Sigma-01-3024-01",
       },
       "options":{
