@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
+        "planet": "Elysara",
+        "year": "3024u",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "WAYFINDERS",
+        "headerSubtitle": "ADVENTURE COMPANY",
+        "subheaderTitle": "VENTURE PARTY",
+        "subheaderSubtitle": "Alpha-Sigma-01-3024-01",
       },
       "options":{
         "eventsMarkdownPerMission": true
